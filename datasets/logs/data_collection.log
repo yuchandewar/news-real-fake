@@ -1,0 +1,2 @@
+2025-12-18 12:27:07,700 - INFO - DATA SOURCE REFERENCE: https://github.com/lutzhamel/fake-news (curated fake/real news dataset with ~6,335 samples)
+2025-12-18 12:27:07,700 - INFO - Downloading dataset from URL: https://raw.githubusercontent.com/lutzhamel/fake-news/master/data/fake_or_real_news.csv

@@ -1,0 +1,216 @@
+2025-12-18 12:42:17,230 - INFO - Starting real-time web scraping from PolitiFact.com for fact-checked claims.
+2025-12-18 12:42:17,230 - INFO - Source Reference: https://www.politifact.com/factchecks/list/ (Professional fact-checking site)
+2025-12-18 12:42:17,230 - INFO - Scraping list page 1: https://www.politifact.com/factchecks/list/?page=1
+2025-12-18 12:42:25,514 - INFO - Found Fake claim:
+2025-12-18 12:42:25,514 - INFO - Claim: Image shows Rob Reiner tweeted in 2023 that he would stop posting until “Trump goes to prison.”
+2025-12-18 12:42:25,514 - INFO - Speaker: Unknown | Ruling: false
+2025-12-18 12:42:25,515 - INFO - Full Text Preview: A day after director Rob Reiner and wife Michele Reiner were found dead in their California home, a purported tweet from the Hollywood star resurfaced on social media. "Until Trump goes to prison I will no longer be posting on Twitter," read an image of what looks like a Jan. 20, 2023, post from Rei...
+2025-12-18 12:42:25,515 - INFO - Source URL: https://www.politifact.com/factchecks/2025/dec/17/laura-loomer/Rob-Reiner-Trump-post-2023/
+2025-12-18 12:42:25,521 - INFO - Appended to CSV: Total new items so far: 1
+2025-12-18 12:42:31,947 - INFO - Found Real claim:
+2025-12-18 12:42:31,947 - INFO - Claim: Gov. Kathy Hochul has raised taxes.
+2025-12-18 12:42:31,947 - INFO - Speaker: Unknown | Ruling: half-true
+2025-12-18 12:42:31,948 - INFO - Full Text Preview: Rep. Elise Stefanik began her campaign to unseat Gov. Kathy Hochul by claiming the Democratic incumbent has raised taxes. Stefanik, a Republican,said in a Fox News interview that Hochul is"open to raising taxes, on top of the taxes she’s already raised for New Yorkers." Hochul says shewill not raise...
+2025-12-18 12:42:31,948 - INFO - Source URL: https://www.politifact.com/factchecks/2025/dec/11/elise-stefanik/hochul-has-extended-higher-taxes-on-wealthy-indivi/
+2025-12-18 12:42:31,950 - INFO - Appended to CSV: Total new items so far: 2
+2025-12-18 12:42:39,821 - INFO - Found Fake claim:
+2025-12-18 12:42:39,822 - INFO - Claim: The U.S. has received promises of investments totaling $18 trillion to $22 trillion since January.
+2025-12-18 12:42:39,822 - INFO - Speaker: Unknown | Ruling: false
+2025-12-18 12:42:39,822 - INFO - Full Text Preview: President Donald Trump has often said that since he took office in January, the U.S. has received trillions of dollars in promises of investments, and the dollar amount he cites changes. On his second day in office,Jan. 21, Trump said the U.S. had "already secured nearly $3 trillion of new investmen...
+2025-12-18 12:42:39,822 - INFO - Source URL: https://www.politifact.com/factchecks/2025/dec/09/donald-trump/foreign-corporate-investment-18-22-trillion/
+2025-12-18 12:42:39,824 - INFO - Appended to CSV: Total new items so far: 3
+2025-12-18 12:42:45,008 - INFO - Found Fake claim:
+2025-12-18 12:42:45,008 - INFO - Claim: “I take responsibility for putting people in jail” in Minnesota fraud scandal.
+2025-12-18 12:42:45,008 - INFO - Speaker: Unknown | Ruling: false
+2025-12-18 12:42:45,008 - INFO - Full Text Preview: Minnesota Gov. Tim Walz recently faced questions about a state fraud scandal involving Somalis that spawned a feud between him and President Donald Trump. The scandal, outlined in aNov. 29 articlein The New York Times, centered on a nonprofit called Feeding Our Future that received federal funding t...
+2025-12-18 12:42:45,008 - INFO - Source URL: https://www.politifact.com/factchecks/2025/dec/05/tim-walz/MN-Somali-fraud-Donald-Trump-TPS-immigration/
+2025-12-18 12:42:45,011 - INFO - Appended to CSV: Total new items so far: 4
+2025-12-18 12:42:48,012 - INFO - Skipping ambiguous ruling: pants-fire
+2025-12-18 12:42:49,319 - INFO - Found Fake claim:
+2025-12-18 12:42:49,320 - INFO - Claim: Any pardon signed with an autopen is now "fully and completely terminated, and is of no legal effect."
+2025-12-18 12:42:49,320 - INFO - Speaker: Unknown | Ruling: false
+2025-12-18 12:42:49,320 - INFO - Full Text Preview: President Donald Trump has repeatedly said former President Joe Biden signed pardons with an autopen, amechanical devicethat uses a robotic arm with an attached pen. When Trump installed portraits of past presidents in the White House, a photograph of an autopen took the place of Biden’s portrait. O...
+2025-12-18 12:42:49,320 - INFO - Source URL: https://www.politifact.com/factchecks/2025/dec/04/donald-trump/revoke-pardon-biden-autopen/
+2025-12-18 12:42:49,322 - INFO - Appended to CSV: Total new items so far: 5
+2025-12-18 12:42:53,493 - INFO - Found Fake claim:
+2025-12-18 12:42:53,493 - INFO - Claim: A new North Carolina law “prohibits the use of wireless communication devices while driving.”
+2025-12-18 12:42:53,493 - INFO - Speaker: Unknown | Ruling: false
+2025-12-18 12:42:53,493 - INFO - Full Text Preview: A social media account that positions itself as an authority on the North Carolina General Assembly posted false information about the state’s driving laws — triggering a wave of inaccurate news online, and leading to an incorrect artificial intelligence-generated summary on a popular search engine....
+2025-12-18 12:42:53,493 - INFO - Source URL: https://www.politifact.com/factchecks/2025/dec/04/facebook-posts/no-north-carolina-didnt-just-ban-cellphone-use-in/
+2025-12-18 12:42:53,496 - INFO - Appended to CSV: Total new items so far: 6
+2025-12-18 12:42:56,497 - INFO - Skipping ambiguous ruling: pants-fire
+2025-12-18 12:43:00,375 - INFO - Found Fake claim:
+2025-12-18 12:43:00,375 - INFO - Claim: “This Thanksgiving, turkey prices are at their lowest point since 2000.”
+2025-12-18 12:43:00,375 - INFO - Speaker: Unknown | Ruling: false
+2025-12-18 12:43:00,375 - INFO - Full Text Preview: A Republican North Carolina congressman says his party is responsible for sending turkey prices lower than they’ve been in 25 years. "This Thanksgiving, turkey prices are at their lowest point since 2000, thanks to Republican policies," said U.S. Rep. Richard Hudson, R-NC, in a Nov. 24 newsletter. "...
+2025-12-18 12:43:00,375 - INFO - Source URL: https://www.politifact.com/factchecks/2025/nov/26/richard-hudson/no-turkey-prices-arent-at-their-lowest-in-25-years/
+2025-12-18 12:43:00,379 - INFO - Appended to CSV: Total new items so far: 7
+2025-12-18 12:43:05,515 - INFO - Found Real claim:
+2025-12-18 12:43:05,515 - INFO - Claim: The Trump administration removed nursing from the list of professional degree programs, affecting aspiring nurses’ student loan access.
+2025-12-18 12:43:05,516 - INFO - Speaker: Unknown | Ruling: half-true
+2025-12-18 12:43:05,516 - INFO - Full Text Preview: Reports that a Trump administration change might make it harder for aspiring nurses to pay for their education sparked outrage online. Some social media users said President Donald Trump hadsigned legislation demotingnursing degrees from professional degree status orreclassifying nursing degreesas n...
+2025-12-18 12:43:05,516 - INFO - Source URL: https://www.politifact.com/factchecks/2025/nov/26/social-media/nursing-professional-degree-trump-student-loans/
+2025-12-18 12:43:05,517 - INFO - Appended to CSV: Total new items so far: 8
+2025-12-18 12:43:15,745 - INFO - Found Fake claim:
+2025-12-18 12:43:15,746 - INFO - Claim: “I have just gotten the highest poll numbers of my ‘political career.’”
+2025-12-18 12:43:15,746 - INFO - Speaker: Unknown | Ruling: false
+2025-12-18 12:43:15,746 - INFO - Full Text Preview: Is President Donald Trump more popular than ever? He says so. "I have just gotten the highest poll numbers of my ‘political career,’" he said in aNov. 22 Truth Social post. Trump’s assertion is inaccurate: Publicly available polling data shows his approval rating at or near its all-time low, not its...
+2025-12-18 12:43:15,746 - INFO - Source URL: https://www.politifact.com/factchecks/2025/nov/24/donald-trump/poll-approval-disapproval-aggregation-highest-ever/
+2025-12-18 12:43:15,748 - INFO - Appended to CSV: Total new items so far: 9
+2025-12-18 12:43:24,090 - INFO - Found Fake claim:
+2025-12-18 12:43:24,091 - INFO - Claim: “There’s about 1,400 criminal illegal aliens that, right now, are in North Carolina and Charlotte’s jails that they refuse to turn over to ICE law enforcement.”
+2025-12-18 12:43:24,091 - INFO - Speaker: Unknown | Ruling: false
+2025-12-18 12:43:24,091 - INFO - Full Text Preview: A top Department of Homeland Security spokesperson said North Carolina officials are blocking access to more than a thousand people wanted by federal immigration agents. The department deployed Border Patrol agents in Raleigh and Charlotte to apprehend people in the U.S. illegally — anongoingoperati...
+2025-12-18 12:43:24,091 - INFO - Source URL: https://www.politifact.com/factchecks/2025/nov/24/tricia-mclaughlin/no-nc-jails-arent-refusing-to-turn-inmates-over-to/
+2025-12-18 12:43:24,093 - INFO - Appended to CSV: Total new items so far: 10
+2025-12-18 12:43:30,074 - INFO - Found Fake claim:
+2025-12-18 12:43:30,074 - INFO - Claim: West Virginia is “the only state losing population.”
+2025-12-18 12:43:30,074 - INFO - Speaker: Unknown | Ruling: false
+2025-12-18 12:43:30,074 - INFO - Full Text Preview: After Virginia saw sweeping Democratic victories in November’s elections, West Virginia state Sen. Sen. Chris Rose, a Republican, welcomed his neighboring state’s conservatives to move to his state, among the nation’s most solidly red. Another West Virginia legislator, Democratic Del. Kayla Young, r...
+2025-12-18 12:43:30,074 - INFO - Source URL: https://www.politifact.com/factchecks/2025/nov/21/kayla-young/west-virginia-losing-population-only-state/
+2025-12-18 12:43:30,162 - INFO - Appended to CSV: Total new items so far: 11
+2025-12-18 12:43:33,163 - INFO - Skipping ambiguous ruling: pants-fire
+2025-12-18 12:43:33,163 - INFO - Skipping ambiguous ruling: pants-fire
+2025-12-18 12:43:38,164 - INFO - Scraping list page 2: https://www.politifact.com/factchecks/list/?page=2
+2025-12-18 12:43:39,825 - INFO - Skipping ambiguous ruling: pants-fire
+2025-12-18 12:43:41,579 - INFO - Found Real claim:
+2025-12-18 12:43:41,579 - INFO - Claim: In Florida, “68 to 70% of property tax revenue” is from “second homes, investment properties, commercial properties, Airbnb,” not primary residences.
+2025-12-18 12:43:41,579 - INFO - Speaker: Unknown | Ruling: mostly-true
+2025-12-18 12:43:41,579 - INFO - Full Text Preview: As Florida’s Republican leaders consider overhauling the state’s property tax system, Gov. Ron DeSantis recently zeroed in on tax changes for primary homes, or homestead properties.During anOct.15 eventin West Palm Beach, a high school student asked DeSantis if there are alternative revenue sources ...
+2025-12-18 12:43:41,579 - INFO - Source URL: https://www.politifact.com/factchecks/2025/oct/30/ron-desantis/desantis-property-tax-homestead-snowbirds-airbnbs/
+2025-12-18 12:43:41,581 - INFO - Appended to CSV: Total new items so far: 12
+2025-12-18 12:43:45,650 - INFO - Found Real claim:
+2025-12-18 12:43:45,650 - INFO - Claim: “To all ICE officers, you have federal immunity in the conduct of your duties.”
+2025-12-18 12:43:45,650 - INFO - Speaker: Unknown | Ruling: barely-true
+2025-12-18 12:43:45,651 - INFO - Full Text Preview: Deputy White House Chief of Staff Stephen Miller told Immigration and Customs Enforcement agents they are legally protected from prosecution and local officials cannot arrest them. Fox News host Will CainquestionedMiller during an Oct. 24 interview. Illinois Gov. JB Pritzker, Cain said, "talked abou...
+2025-12-18 12:43:45,651 - INFO - Source URL: https://www.politifact.com/factchecks/2025/oct/29/stephen-miller/ICE-agent-immigration-raids-legal-immunity/
+2025-12-18 12:43:45,653 - INFO - Appended to CSV: Total new items so far: 13
+2025-12-18 12:43:48,653 - INFO - Skipping ambiguous ruling: pants-fire
+2025-12-18 12:43:50,190 - INFO - Found Real claim:
+2025-12-18 12:43:50,190 - INFO - Claim: "Overall, the inflation since President Trump” took office “has come down."
+2025-12-18 12:43:50,191 - INFO - Speaker: Unknown | Ruling: half-true
+2025-12-18 12:43:50,191 - INFO - Full Text Preview: President Donald Trump says he’s improved Americans’ lives when it comes to the economy and inflation, two areas thatpollsshow are top of mind for voters. "Energy costs are way down," Trump told service members on the USS George Washington in Japan onOct. 28."Gasoline prices are way down. Grocery pr...
+2025-12-18 12:43:50,191 - INFO - Source URL: https://www.politifact.com/factchecks/2025/oct/29/scott-bessent/overall-inflation-decline-trump/
+2025-12-18 12:43:50,194 - INFO - Appended to CSV: Total new items so far: 14
+2025-12-18 12:45:13,857 - INFO - Found Fake claim:
+2025-12-18 12:45:13,857 - INFO - Claim: Video shows Hurricane Melissa hitting Jamaica on Oct. 26, 2025.
+2025-12-18 12:45:13,857 - INFO - Speaker: Unknown | Ruling: false
+2025-12-18 12:45:13,857 - INFO - Full Text Preview: Hurricane Melissa grew to a Category 5 hurricane Oct. 27 as it neared Jamaica, but videos that social media users claim show the storm making landfall are deceiving — it wasn’t on shore yet when the videos were posted. An Oct. 26 TikTok video shows footage of intense flooding, wind and property dama...
+2025-12-18 12:45:13,857 - INFO - Source URL: https://www.politifact.com/factchecks/2025/oct/27/tweets/hurricane-melissa-jamaica-videos/
+2025-12-18 12:45:13,859 - INFO - Appended to CSV: Total new items so far: 15
+2025-12-18 12:45:20,036 - INFO - Found Real claim:
+2025-12-18 12:45:20,037 - INFO - Claim: An ad from the government of Ontario, Canada, “misrepresents” President Ronald Reagan’s April 25, 1987, address about tariffs.
+2025-12-18 12:45:20,037 - INFO - Speaker: Unknown | Ruling: barely-true
+2025-12-18 12:45:20,037 - INFO - Full Text Preview: After the government of the Canadian province of Ontario released an anti-tariff ad taking aim at U.S. trade policy, President Donald Trump said the United States was cutting off trade negotiations with its northern neighbor. In an Oct. 23Truth Socialpost, Trump referenced astatementfrom The Ronald ...
+2025-12-18 12:45:20,037 - INFO - Source URL: https://www.politifact.com/factchecks/2025/oct/24/ronald-reagan-presidential-foundation-and-institut/Canada-ad-Ronald-Reagan-tariffs-Trump/
+2025-12-18 12:45:20,039 - INFO - Appended to CSV: Total new items so far: 16
+2025-12-18 12:45:25,271 - INFO - Found Fake claim:
+2025-12-18 12:45:25,271 - INFO - Claim: “The Trump administration just declared that erecting a ballroom is the president’s main priority,” rather than issues such as the cost of living and health care.
+2025-12-18 12:45:25,271 - INFO - Speaker: Unknown | Ruling: false
+2025-12-18 12:45:25,271 - INFO - Full Text Preview: As images of the White House’s demolished East Wing led the national news, top Democrats shared a video of White House Press Secretary Karoline Leavitt seeming to say that construction of the new ballroom is President Donald Trump’s top priority. "At this moment in time, of course, the ballroom is r...
+2025-12-18 12:45:25,271 - INFO - Source URL: https://www.politifact.com/factchecks/2025/oct/24/hakeem-jeffries/democrats-leavitt-priority-ballroom-white-house/
+2025-12-18 12:45:25,273 - INFO - Appended to CSV: Total new items so far: 17
+2025-12-18 12:45:28,274 - INFO - Skipping ambiguous ruling: pants-fire
+2025-12-18 12:45:28,274 - INFO - Skipping ambiguous ruling: full-flop
+2025-12-18 12:45:31,779 - INFO - Found Real claim:
+2025-12-18 12:45:31,779 - INFO - Claim: “About 25% of the time the Coast Guard boards a ship, there are no drugs.”
+2025-12-18 12:45:31,779 - INFO - Speaker: Unknown | Ruling: mostly-true
+2025-12-18 12:45:31,779 - INFO - Full Text Preview: President Donald Trump says U.S. military strikes on eight vessels in the Caribbean Sea and the Pacific Ocean, mostly targeting boats from Venezuela, were legal because they carried drugs being delivered to the United States.Sen. Rand Paul, R-Ky., said maritime law enforcement statistics show that n...
+2025-12-18 12:45:31,779 - INFO - Source URL: https://www.politifact.com/factchecks/2025/oct/22/rand-paul/venezuela-drug-boats-coast-guard-florida/
+2025-12-18 12:45:31,781 - INFO - Appended to CSV: Total new items so far: 18
+2025-12-18 12:45:36,928 - INFO - Found Real claim:
+2025-12-18 12:45:36,928 - INFO - Claim: “Fifty percent of the presidents, almost, have used (the Insurrection Act). And that's unquestioned power.”
+2025-12-18 12:45:36,928 - INFO - Speaker: Unknown | Ruling: barely-true
+2025-12-18 12:45:36,928 - INFO - Full Text Preview: President Donald Trump says he still has options on the table for sending military into Chicago, where local leaders and courts have so far blocked his efforts to send the National Guard. "Don't forget I can use the Insurrection Act. Fifty percent of the presidents, almost, have used that. And that'...
+2025-12-18 12:45:36,928 - INFO - Source URL: https://www.politifact.com/factchecks/2025/oct/22/donald-trump/Insurrection-Act-presidents-invoked-half/
+2025-12-18 12:45:36,930 - INFO - Appended to CSV: Total new items so far: 19
+2025-12-18 12:45:40,583 - INFO - Found Real claim:
+2025-12-18 12:45:40,583 - INFO - Claim: "Political violence, it's just a statistical fact that it's a bigger problem on the left.”
+2025-12-18 12:45:40,583 - INFO - Speaker: Unknown | Ruling: barely-true
+2025-12-18 12:45:40,583 - INFO - Full Text Preview: Following the September assassination of conservative influencer Charlie Kirk, President Donald Trump and Vice President JD Vance have shaped their political agenda by blaming the left for political violence. "Political violence, it's just a statistical fact that it's a bigger problem on the left," ...
+2025-12-18 12:45:40,583 - INFO - Source URL: https://www.politifact.com/factchecks/2025/oct/20/jd-vance/Trump-Charlie-Kirk-political-violence-left-right/
+2025-12-18 12:45:40,585 - INFO - Appended to CSV: Total new items so far: 20
+2025-12-18 12:45:43,586 - INFO - Skipping ambiguous ruling: pants-fire
+2025-12-18 12:46:05,596 - INFO - Found Fake claim:
+2025-12-18 12:46:05,596 - INFO - Claim: Democrats are “dishonestly sending around a video from 2017” claiming it was an Oct. 18 ‘No Kings’ rally in Boston.
+2025-12-18 12:46:05,596 - INFO - Speaker: Unknown | Ruling: false
+2025-12-18 12:46:05,596 - INFO - Full Text Preview: After large crowds turned out Oct. 18 for "No Kings" rallies across the U.S., some conservative politicians and social media accounts sought to undermine the crowd counts. One Xaccountposted, "Analysts are calling this the biggest FRAUD in American history. MSNBC falsely aired a Video from 2017 clai...
+2025-12-18 12:46:05,596 - INFO - Source URL: https://www.politifact.com/factchecks/2025/oct/20/ted-cruz/MSNBC-no-kings-boston-crowd-footage-2017/
+2025-12-18 12:46:05,598 - INFO - Appended to CSV: Total new items so far: 21
+2025-12-18 12:46:13,598 - INFO - Scraping list page 3: https://www.politifact.com/factchecks/list/?page=3
+2025-12-18 12:46:22,935 - INFO - Found Fake claim:
+2025-12-18 12:46:22,935 - INFO - Claim: “Portland is burning to the ground.”
+2025-12-18 12:46:22,936 - INFO - Speaker: Unknown | Ruling: false
+2025-12-18 12:46:22,936 - INFO - Full Text Preview: President Donald Trump, who is seeking to send the National Guard to Portland, Oregon, said the city is in flames. "Portland is burning to the ground, it’s insurrectionists all over the place," Trumptold reportersOct. 5 before heading to a celebration of the U.S. Navy, echoing hisprevious statements...
+2025-12-18 12:46:22,936 - INFO - Source URL: https://www.politifact.com/factchecks/2025/oct/07/donald-trump/Portland-ICE-arrest-burning-ground/
+2025-12-18 12:46:22,938 - INFO - Appended to CSV: Total new items so far: 22
+2025-12-18 12:46:32,799 - INFO - Found Fake claim:
+2025-12-18 12:46:32,799 - INFO - Claim: “Los demócratas están amenazando con cerrar todo el gobierno porque quieren dar cientos de miles de millones de dólares en beneficios de cuidado de salud a los inmigrantes ilegales”.
+2025-12-18 12:46:32,799 - INFO - Speaker: Unknown | Ruling: false
+2025-12-18 12:46:32,799 - INFO - Full Text Preview: Los republicanos han acusado varias veces a los demócratas de cerrar el gobierno por querer dar acceso a seguros médicos subsidiados por el gobierno federal a inmigrantes ilegalmente en EE.UU. "Los demócratas están amenazando con cerrar todo el gobierno porque quieren dar cientos de miles de millone...
+2025-12-18 12:46:32,799 - INFO - Source URL: https://www.politifact.com/factchecks/2025/oct/02/jd-vance/cierre-del-gobierno-democratas-inmigrantes-salud/
+2025-12-18 12:46:32,804 - INFO - Appended to CSV: Total new items so far: 23
+2025-12-18 12:46:39,505 - INFO - Found Real claim:
+2025-12-18 12:46:39,505 - INFO - Claim: Thirty percent of U.S. medical residents are international medical graduates, and 10,000 of 43,000 residency spots are filled by H-1B visa holders.
+2025-12-18 12:46:39,505 - INFO - Speaker: Unknown | Ruling: half-true
+2025-12-18 12:46:39,505 - INFO - Full Text Preview: President Donald Trump announced that H-1B visa fees would increase to $100,000, a move that some social media users said could worsen U.S. physician shortages. As of Sept. 21, new H-1B visa applicationswill requirea $100,000 fee, up from $2,000 to $5,000. The Trump administrationsaidthe fee is to p...
+2025-12-18 12:46:39,505 - INFO - Source URL: https://www.politifact.com/factchecks/2025/oct/02/tweets/H-1B-visas-medical-residents-us-100000/
+2025-12-18 12:46:39,507 - INFO - Appended to CSV: Total new items so far: 24
+2025-12-18 12:46:42,508 - INFO - Skipping ambiguous ruling: pants-fire
+2025-12-18 12:46:44,580 - INFO - Found Fake claim:
+2025-12-18 12:46:44,580 - INFO - Claim: “Democrats are threatening to shut down the entire government because they want to give hundreds of billions of dollars of health care benefits to illegal aliens.”
+2025-12-18 12:46:44,580 - INFO - Speaker: Unknown | Ruling: false
+2025-12-18 12:46:44,581 - INFO - Full Text Preview: As the U.S. headed for a government shutdown, Republicans repeatedly accused Democrats of forcing the closure because they want to give health care access to immigrants in the U.S. illegally. "Democrats are threatening to shut down the entire government because they want to give hundreds of billions...
+2025-12-18 12:46:44,581 - INFO - Source URL: https://www.politifact.com/factchecks/2025/oct/01/jd-vance/government-shutdown-Democrats-immigrant-healthcare/
+2025-12-18 12:46:44,582 - INFO - Appended to CSV: Total new items so far: 25
+2025-12-18 12:46:47,583 - INFO - Skipping ambiguous ruling: pants-fire
+2025-12-18 12:46:48,894 - INFO - Found Real claim:
+2025-12-18 12:46:48,894 - INFO - Claim: People with insurance through the Affordable Care Act will see a “75% increase in premiums starting Nov. 1” if enhanced subsidies are not extended, including “twice as much in the rural areas.”
+2025-12-18 12:46:48,894 - INFO - Speaker: Unknown | Ruling: mostly-true
+2025-12-18 12:46:48,894 - INFO - Full Text Preview: As Republicans and Democrats careened toward an Oct. 1 government shutdown, the parties clashed over whether to pass a clean extension of federal funding, as Republicans sought, or to extend expiring Affordable Care Act subsidies, as Democrats wanted. In aninterviewon CBS’ "Face the Nation" — aired ...
+2025-12-18 12:46:48,894 - INFO - Source URL: https://www.politifact.com/factchecks/2025/sep/30/amy-klobuchar/expiring-aca-subsidies-rural-areas-double/
+2025-12-18 12:46:48,896 - INFO - Appended to CSV: Total new items so far: 26
+2025-12-18 12:46:52,841 - INFO - Found Real claim:
+2025-12-18 12:46:52,841 - INFO - Claim: “If the government shuts down, members of Congress still get paid. The janitors never get paid.”
+2025-12-18 12:46:52,842 - INFO - Speaker: Unknown | Ruling: mostly-true
+2025-12-18 12:46:52,842 - INFO - Full Text Preview: Many federal government employees will forgo paychecks if the government shuts down Oct. 1. But that won’t be the case for lawmakers, a liberal podcaster said. "If the government shuts down, members of Congress still get paid," said Dan Koh, host of "The People’s Cabinet" podcast in acliphe posted S...
+2025-12-18 12:46:52,842 - INFO - Source URL: https://www.politifact.com/factchecks/2025/sep/30/dan-koh/congress-gets-paid-during-a-government-shutdown-bu/
+2025-12-18 12:46:52,843 - INFO - Appended to CSV: Total new items so far: 27
+2025-12-18 12:46:59,490 - INFO - Found Real claim:
+2025-12-18 12:46:59,490 - INFO - Claim: "Republicans have effectively ended medical research in the United States of America."
+2025-12-18 12:46:59,490 - INFO - Speaker: Unknown | Ruling: barely-true
+2025-12-18 12:46:59,490 - INFO - Full Text Preview: President Donald Trump has made historically large cuts to medical research, some of them aimed at ending what he refers to asdiversity, equity and inclusionin federally funded studies. His administration is proposing more: Overall funding for the National Institutes of Healthwould returnto its2007 ...
+2025-12-18 12:46:59,490 - INFO - Source URL: https://www.politifact.com/factchecks/2025/sep/29/hakeem-jeffries/trump-medical-research-cuts-nih/
+2025-12-18 12:46:59,492 - INFO - Appended to CSV: Total new items so far: 28
+2025-12-18 12:47:07,402 - INFO - Found Real claim:
+2025-12-18 12:47:07,402 - INFO - Claim: During Gov. Hochul’s tenure, there has been “more crime on our streets.”
+2025-12-18 12:47:07,403 - INFO - Speaker: Unknown | Ruling: mostly-true
+2025-12-18 12:47:07,403 - INFO - Full Text Preview: A leading Republican called Gov. Kathy Hochul's track record "abysmal" on the heels of her recent gubernatorial visit to Western New York. "The only thing New Yorkers have to show from her tenure are rising prices, increased wasteful spending, skyrocketing Medicaid costs due to fraud and abuse, and ...
+2025-12-18 12:47:07,403 - INFO - Source URL: https://www.politifact.com/factchecks/2025/sep/27/robert-ortt/ortts-claim-about-rising-crime-needs-context/
+2025-12-18 12:47:07,405 - ERROR - Error processing item: [Errno 13] Permission denied: 'politifact_fake_real_news_dataset.csv'
+2025-12-18 12:47:13,875 - INFO - Found Fake claim:
+2025-12-18 12:47:13,875 - INFO - Claim: Small children are given "80 different vaccines."
+2025-12-18 12:47:13,876 - INFO - Speaker: Unknown | Ruling: false
+2025-12-18 12:47:13,876 - INFO - Full Text Preview: President Donald Trump repeatedly exaggerated the number of vaccines recommended for small children, comparing it with vaccinating a horse. "They give — I mean, for a little baby to be injected with that much fluid?" Trump first said Sept. 21 during anAir Force One press gaggle. "Even beyond the act...
+2025-12-18 12:47:13,876 - INFO - Source URL: https://www.politifact.com/factchecks/2025/sep/26/donald-trump/no-small-children-dont-receive-80-different-vaccin/
+2025-12-18 12:47:13,877 - ERROR - Error processing item: [Errno 13] Permission denied: 'politifact_fake_real_news_dataset.csv'
+2025-12-18 12:47:15,561 - INFO - Found Fake claim:
+2025-12-18 12:47:15,561 - INFO - Claim: “Erika Kirk is banned from Romania because her Evangelical group was accused of trafficking children out of Romanian villages.”
+2025-12-18 12:47:15,561 - INFO - Speaker: Unknown | Ruling: false
+2025-12-18 12:47:15,561 - INFO - Full Text Preview: As conservative activist Erika Kirk publicly mourned her husband Charlie Kirk, social media users targeted her work on a Romanian charity project. "Did ya’ll know Erika Kirk is banned from Romania because her Evangelical group was accused of trafficking children out of Romanian villages?" one self-d...
+2025-12-18 12:47:15,561 - INFO - Source URL: https://www.politifact.com/factchecks/2025/sep/26/tweets/Erika-Charlie-Kirk-charity-trafficking-Romania/
+2025-12-18 12:47:15,563 - ERROR - Error processing item: [Errno 13] Permission denied: 'politifact_fake_real_news_dataset.csv'
+2025-12-18 12:47:17,465 - INFO - Found Fake claim:
+2025-12-18 12:47:17,466 - INFO - Claim: The U.S. currently has “no inflation.”
+2025-12-18 12:47:17,466 - INFO - Speaker: Unknown | Ruling: false
+2025-12-18 12:47:17,466 - INFO - Full Text Preview: President Donald Trump frequently touts his battle against higher prices, often by saying the U.S. currently has "no inflation." On Sept. 19, while meeting reporters in theOval Office, Trump referenced his tariff policy, saying, "Even people that were against the tariffs, now they see the way they'r...
+2025-12-18 12:47:17,466 - INFO - Source URL: https://www.politifact.com/factchecks/2025/sep/24/donald-trump/no-inflation-consumer-index-prices/
+2025-12-18 12:47:17,467 - ERROR - Error processing item: [Errno 13] Permission denied: 'politifact_fake_real_news_dataset.csv'
+2025-12-18 12:47:21,567 - INFO - Found Real claim:
+2025-12-18 12:47:21,567 - INFO - Claim: “I have ended seven unendable wars.”
+2025-12-18 12:47:21,567 - INFO - Speaker: Unknown | Ruling: barely-true
+2025-12-18 12:47:21,567 - INFO - Full Text Preview: In his address to the United Nations General Assembly, President Donald Trump said "everyone" is saying he deserves the Nobel Peace Prize for ending seven wars."I have ended seven unendable wars," Trump said Sept. 23 in New York. "They said they were unendable. You're never going to get them solved....
+2025-12-18 12:47:21,567 - INFO - Source URL: https://www.politifact.com/factchecks/2025/sep/23/donald-trump/trump-ended-seven-wars-un-general-assembly/
+2025-12-18 12:47:21,569 - ERROR - Error processing item: [Errno 13] Permission denied: 'politifact_fake_real_news_dataset.csv'
+2025-12-18 12:47:21,569 - INFO - Skipping ambiguous ruling: pants-fire
+2025-12-18 12:47:26,570 - INFO - Scraping complete. Dataset suitable for training fake/real news classifiers using 'full_text' or 'claim'.
